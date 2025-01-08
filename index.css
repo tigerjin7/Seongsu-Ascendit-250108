@@ -30,7 +30,7 @@ body{
     background-position: center;
 }
 #container1{
-    margin: 30px 0 50px 0;
+    margin: 30px 0 40px 0;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -44,11 +44,12 @@ body{
 }
 .paragraph3{
     line-height: 2rem;
-    letter-spacing: normal;
+    letter-spacing: -0.05rem;
     text-align: justify;
+    font-size: 0.95rem;
 }
 #container2{
-    margin: 50px 0 50px 0;
+    margin: 0 0 40px 0;
     display: flex;
     align-items: center;
     justify-content: center;
